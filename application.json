@@ -1,0 +1,67 @@
+{
+  "appIsExample": false,
+  "applicationDetail": {
+    "appPositioning": {
+      "type": "FIXED"
+    },
+    "navigationSetting": {
+      "colorStyle": "theme",
+      "itemStyle": "text",
+      "logoAssetId": "",
+      "logoConfiguration": "applicationTitleOnly",
+      "navStyle": "sidebar",
+      "orientation": "side",
+      "position": "static",
+      "showNavbar": true,
+      "showSignIn": true
+    }
+  },
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "color": "#C2DAF0",
+  "evaluationVersion": 2,
+  "icon": "shopper",
+  "pages": [
+    {
+      "baseId": "partial import",
+      "id": "partial import",
+      "isDefault": false
+    },
+    {
+      "baseId": "crud mock",
+      "id": "crud mock",
+      "isDefault": true
+    },
+    {
+      "baseId": "crud gsheets",
+      "id": "crud gsheets",
+      "isDefault": false
+    },
+    {
+      "baseId": "drop block",
+      "id": "drop block",
+      "isDefault": false
+    },
+    {
+      "baseId": "fresh page",
+      "id": "fresh page",
+      "isDefault": false
+    }
+  ],
+  "unpublishedApplicationDetail": {
+    "appPositioning": {
+      "type": "FIXED"
+    },
+    "navigationSetting": {
+      "colorStyle": "theme",
+      "itemStyle": "text",
+      "logoAssetId": "",
+      "logoConfiguration": "applicationTitleOnly",
+      "navStyle": "sidebar",
+      "orientation": "side",
+      "position": "static",
+      "showNavbar": true,
+      "showSignIn": true
+    }
+  }
+}
