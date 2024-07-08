@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "668b9e3a0ab7aa157012db0a_d748c873-8684-4e94-b383-3447e2b5239e",
+  "id": "crud mock_js",
+  "unpublishedCollection": {
+    "name": "js",
+    "pageId": "crud mock",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ]
+  }
+}
