@@ -32,7 +32,7 @@
   "key": "5wtgp34ebv",
   "label": "{{js.myFun1.data}}",
   "labelAlignment": "left",
-  "labelPosition": "Top",
+  "labelPosition": "Left",
   "labelStyle": "",
   "labelTextSize": "0.875rem",
   "labelWidth": 5,
